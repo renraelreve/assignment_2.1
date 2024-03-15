@@ -1,0 +1,21 @@
+.avatar {
+  width: 200px;
+  height: auto;
+  margin-top: 20px;
+}
+
+.about-me {
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
+  border: 1px solid black;
+  /* background-color: red; */
+}
+
+hr {
+  width: 50%;
+}
+
+.about-me {
+  margin-bottom: 20px;
+}
